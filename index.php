@@ -1,5 +1,6 @@
 <?php
-$access_token ='你的Channel Access Token';
+$access_token ='Dn4o1ydKqOiRaVD9vjPBqKhKrEATFbyECUyLiBkT2JtyCyAuzIr1NhhrF1iugNGFMJ+D6vs6uaNeizg3oGO0prSiYxh1y1K8ozA8I9xzCq7Mqa7hwAYcy7THT56yS7aV3c4oI55F6ewwdbPuQtobPwdB04t89/1O/w1cDnyilFU=
+';
 //define('TOKEN', '你的Channel Access Token');
 
 $json_string = file_get_contents('php://input');
